@@ -467,10 +467,7 @@ ${prefix}pantun
 ${prefix}kbbi
 
 *_OWNER & PREMIUM MENU_*
-${prefix}addprem
-${prefix}delprem
-${prefix}cekprem
-${prefix}listprem
+${prefix}hidetag
 ${prefix}bc
 
 *_ɪɴғᴏ ʙᴏᴛ_*
